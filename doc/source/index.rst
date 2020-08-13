@@ -4,7 +4,7 @@
 
 `컨트리뷰톤 2020 <https://www.oss.kr/contributhon>`_ - 
 `OpenStack Team <https://github.com/openstack-kr/contributon-2020>`_ 을
-진행하면서 컨트리뷰톤 참여자들이 정리한 문서입니다.
+진행하면서 컨트리뷰톤 참여자들이 정리한 문서입니다. 오늘 테스트입니다.
 
 목차
 ----
