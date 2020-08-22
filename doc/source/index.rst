@@ -12,6 +12,7 @@
 .. toctree::
    :maxdepth: 2
 
+   openstack_helm/doc1
    sample/index
 
 이 문서에서 검색
